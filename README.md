@@ -1,5 +1,8 @@
+
 # Introduction
-This was coursework 1 for GCSE Computer Science that I completed in 2015. This project has no dependencies other than Python.
+This was coursework 1 for GCSE Computer Science that I completed in 2015.
+
+This project has no dependencies other than Python. Developed with Python 3.
 
 The code uploaded is exactly as I left it in 2015 (other than I fixed a few typos in the comments - of which I don't know why I made so many for practically every line of code!)
 
@@ -10,6 +13,6 @@ We had to create a program in Python which presented the user with a list of enc
 My solution for the coursework included an extra feature which was performing and displaying frequency of each of the symbols that appear in the cipher text.
 
 #### Demo
-Below are some screenshots:
+Below is a graphic showing the 3 main stages of the solution, the initial screen, having entered some pairings and winning:
 
 ![Screenshots of the program at various stages](https://i.imgur.com/HroD4mM.png)
